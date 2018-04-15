@@ -1,0 +1,11 @@
+<p>A continuación se muestra un enlace al paquete de solución de problemas generado por Mycroft:</p>
+
+<ul><tt>
+<p><b>Nombre del dispositivo:</b> {{device_name}}</p>
+<p><b>Descripción:</b> {{description}}</p>
+<a href='{{url}}'>{{url}}</a>
+</tt></ul>
+
+<p>
+<a href='mailto:support@mycroft.ai?Subject=Troubleshooting%20Package&amp;body=Troubleshooting%20Package:%20{{url}}' target='_top'>Envía esto a support@mycroft.ai</a> para enviarles esta información al equipo de Mycroft para obtener más ayuda.
+</p>
